@@ -94,5 +94,5 @@ After successful installation, report:
 Example prompt:
 
 ```text
-Spawn the karen agent to audit the current project. Verify what actually works versus what is claimed complete, identify gaps by Critical / High / Medium / Low severity, and produce a prioritized completion plan.
+Spawn the karen agent to audit the current project. Verify what actually works versus what is claimed complete, identify gaps by Critical / High / Medium / Low severity, and produce a prioritized completion plan. Ensure that the agent is installed globally and works in WSL /mnt environment as well if operating on Windows + WSL.
 ```
